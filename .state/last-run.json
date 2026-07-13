@@ -1,0 +1,125 @@
+{
+  "watermark": "2026-07-13T22:03:52.292Z",
+  "sessions": {
+    "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\d--bluesheepadventures\\fc24dd02-3f9b-4bdf-a418-9c982b58191b.jsonl",
+      "mtimeMs": 1783498391069.7178,
+      "startDate": "2026-06-11",
+      "md": "sessions/2026-06-11/2143-claude-code-fc24dd02.md",
+      "lastEventTs": "2026-07-08T08:13:10.923Z",
+      "title": "\\Now show me the front end.",
+      "project": "bluesheep-adventures",
+      "turns": 454,
+      "toolCalls": 1004
+    },
+    "1cc903e3-f0b4-40eb-851a-9c3ad6f61586": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\1cc903e3-f0b4-40eb-851a-9c3ad6f61586.jsonl",
+      "mtimeMs": 1783980216888.844,
+      "startDate": "2026-07-14",
+      "md": "sessions/2026-07-14/0234-claude-code-1cc903e3.md",
+      "lastEventTs": "2026-07-13T22:03:36.133Z",
+      "title": "Personal brain memory system setup",
+      "project": "karan-tracker",
+      "turns": 9,
+      "toolCalls": 59
+    },
+    "35182f03-afb6-4f74-bd4e-44a9f2c80697": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\35182f03-afb6-4f74-bd4e-44a9f2c80697.jsonl",
+      "mtimeMs": 1783974802092,
+      "startDate": "2026-06-11",
+      "md": "sessions/2026-06-11/0535-claude-code-35182f03.md",
+      "lastEventTs": "2026-06-11T15:35:38.848Z",
+      "title": "Vantigravity IDE crash recovery",
+      "project": "karan-tracker",
+      "turns": 42,
+      "toolCalls": 154
+    },
+    "e75d4d97-0d74-40e2-81ef-1e8fdbbac530": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\e75d4d97-0d74-40e2-81ef-1e8fdbbac530.jsonl",
+      "mtimeMs": 1783974559806.336,
+      "startDate": "2026-07-13",
+      "md": "sessions/2026-07-13/1346-claude-code-e75d4d97.md",
+      "lastEventTs": "2026-07-13T20:29:19.663Z",
+      "title": "Outdoor Network skills development",
+      "project": "karan-tracker",
+      "turns": 26,
+      "toolCalls": 33
+    },
+    "fc1810e2-6890-4140-a098-77da414560ad": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\fc1810e2-6890-4140-a098-77da414560ad.jsonl",
+      "mtimeMs": 1783974802093,
+      "startDate": "2026-06-11",
+      "md": "sessions/2026-06-11/0141-claude-code-fc1810e2.md",
+      "lastEventTs": "2026-06-10T22:36:12.201Z",
+      "title": "Blue Sheep Adventures website research",
+      "project": "karan-tracker",
+      "turns": 28,
+      "toolCalls": 89
+    },
+    "5feafd7e-8b73-46bb-af3d-ae8431e338c2": {
+      "source": "antigravity",
+      "file": "C:\\Users\\Karan singh\\.gemini\\antigravity-ide\\brain\\5feafd7e-8b73-46bb-af3d-ae8431e338c2",
+      "mtimeMs": 1781194403259.952,
+      "startDate": "2026-06-11",
+      "md": "sessions/2026-06-11/2110-antigravity-5feafd7e.md",
+      "lastEventTs": "2026-06-11T16:13:22.000Z",
+      "title": "BSA Platform Build — Task Tracker",
+      "project": "bluesheep-adventures",
+      "turns": 15,
+      "toolCalls": 215
+    },
+    "7c3c3c1e-848e-4ab6-a4e9-fe0924cd6e1f": {
+      "source": "antigravity",
+      "file": "C:\\Users\\Karan singh\\.gemini\\antigravity-ide\\brain\\7c3c3c1e-848e-4ab6-a4e9-fe0924cd6e1f",
+      "mtimeMs": 1781248268564.4998,
+      "startDate": "2026-06-12",
+      "md": "sessions/2026-06-12/1232-antigravity-7c3c3c1e.md",
+      "lastEventTs": "2026-06-12T07:11:06.000Z",
+      "title": "Task List — Backend & Integration",
+      "project": "bluesheep-adventures",
+      "turns": 150,
+      "toolCalls": 291
+    },
+    "8a957185-b3fb-4db9-9572-94abe2b6b862": {
+      "source": "antigravity",
+      "file": "C:\\Users\\Karan singh\\.gemini\\antigravity-ide\\brain\\8a957185-b3fb-4db9-9572-94abe2b6b862",
+      "mtimeMs": 1781133011410.877,
+      "startDate": "2026-06-11",
+      "md": "sessions/2026-06-11/0207-antigravity-8a957185.md",
+      "lastEventTs": "2026-06-10T23:10:09.000Z",
+      "title": "Task Progress",
+      "project": "unsorted",
+      "turns": 23,
+      "toolCalls": 236
+    },
+    "local_50cc5220-3efb-4c59-a720-8724e88394be": {
+      "source": "claude-desktop",
+      "file": "C:\\Users\\Karan singh\\AppData\\Roaming\\Claude\\claude-code-sessions\\117acc2c-6ea4-49e2-b3fe-ba9183e6159e\\8aaa5e70-0606-4696-bba0-1f71472aee7b\\local_50cc5220-3efb-4c59-a720-8724e88394be.json",
+      "mtimeMs": 1781126624868.195,
+      "startDate": "2026-04-24",
+      "md": "sessions/2026-04-24/0335-claude-desktop-local_50.md",
+      "lastEventTs": "2026-04-23T23:01:47.404Z",
+      "title": "Set up task management for website projects",
+      "project": "karan-tracker",
+      "turns": 0,
+      "toolCalls": 0
+    },
+    "local_78575aee-5fa7-4dd4-abe7-3f08dfb12d07": {
+      "source": "claude-desktop",
+      "file": "C:\\Users\\Karan singh\\AppData\\Roaming\\Claude\\claude-code-sessions\\117acc2c-6ea4-49e2-b3fe-ba9183e6159e\\8aaa5e70-0606-4696-bba0-1f71472aee7b\\local_78575aee-5fa7-4dd4-abe7-3f08dfb12d07.json",
+      "mtimeMs": 1781126624743.5056,
+      "startDate": "2026-04-26",
+      "md": "sessions/2026-04-26/1637-claude-desktop-local_78.md",
+      "lastEventTs": "2026-05-03T05:03:53.183Z",
+      "title": "Create Nepal trek advertising carousel post",
+      "project": "karan-tracker",
+      "turns": 0,
+      "toolCalls": 0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+scripts/logs/
+.state/tmp/
+.state/audit.lock
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/

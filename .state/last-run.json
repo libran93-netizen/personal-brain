@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-07-16T06:46:02.239Z",
+  "watermark": "2026-07-16T16:30:07.864Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -165,6 +165,18 @@
       "md": "sessions/2026-07-14/1137-claude-code-c21a3554.md",
       "lastEventTs": "2026-07-14T06:07:55.120Z",
       "title": "You are writing a one-time BACKFILL OVERVIEW for Karan Sing…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "261a3ee4-92ff-4353-af3a-71cc50160d86": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\261a3ee4-92ff-4353-af3a-71cc50160d86.jsonl",
+      "mtimeMs": 1784184546339.996,
+      "startDate": "2026-07-16",
+      "md": "sessions/2026-07-16/1216-claude-code-261a3ee4.md",
+      "lastEventTs": "2026-07-16T06:49:04.952Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
       "project": "the-outdoor-network",
       "turns": 2,
       "toolCalls": 0

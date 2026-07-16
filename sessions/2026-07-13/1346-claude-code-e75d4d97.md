@@ -6,15 +6,14 @@ project: karan-tracker
 cwd: "E:\\claude task tracker"
 gitBranch: "HEAD"
 started: 2026-07-13T13:46:36+05:30
-ended: 2026-07-14T01:59:19+05:30
-turns: 26
-toolCalls: 33
-model: "claude-sonnet-5"
-title: "Outdoor Network skills development"
+ended: 2026-07-15T16:05:03+05:30
+turns: 49
+toolCalls: 42
+title: "npx skills update, help me find suitable skils which can he…"
 ---
-# 2026-07-13 · Claude Code · Outdoor Network skills development
+# 2026-07-13 · Claude Code · npx skills update, help me find suitable skils which can he…
 
-> 26 turns · 33 tool calls (Bash 9, Read 5, Write 5, Glob 4, AskUserQuestion 4, …)
+> 49 turns · 42 tool calls (Bash 9, Write 8, AskUserQuestion 7, Edit 7, Read 5, …)
 
 ## Conversation
 
@@ -371,6 +370,200 @@ lets go next
 
 > 🔧 AskUserQuestion `{"questions":[{"question":"Which skill should we build next?","header":"Next Skill","multiSelect":false,"options":[{"label":"Safety & Risk Docs (Recommended)","description":"Standardized briefing docs…`
 
+### 11:38 — Claude
+
+No response requested.
+
+### 11:38 — Karan
+
+lets continue
+
+### 11:38 — Claude
+
+Two skills down. Which one should we build next?
+
+> 🔧 AskUserQuestion `{"questions":[{"question":"Which skill should we build next?","header":"Next Skill","multiSelect":false,"options":[{"label":"Commission & Pricing (Recommended)","description":"How you structure commis…`
+
+### 11:39 — Claude
+
+Let's build **Commission & Pricing** — this is the trickiest one since the revenue model is still open, so I want to ground it in how you actually operate today rather than inventing a policy.
+
+1. **Your current markup model** — When you curate a trip and sell it forward, is the markup a fixed percentage, or does it vary by trip/operator/trust level? Roughly what range are we talking about?
+
+2. **Cost sheet line items** — What do you actually track when costing a trip: operator/leader fee, permits, transport, food, accommodation, gear rental, insurance, contingency buffer, your margin? Anything else specific to Himalayan treks (porter/pony costs, forest fees, etc.)?
+
+3. **Leading vs. curating** — Does your margin or approach differ when you're leading the trek yourself vs. purely curating someone else's?
+
+4. **Payment flow** — Right now, do you collect the full amount from the traveler and pay the operator their cut, or does the operator collect and pay you a commission back? This matters a lot for how TON would eventually handle money.
+
+5. **Client-facing pricing** — Do travelers ever see a cost breakdown, or just the final all-in price?
+
+6. **TON-specific thinking** — Even though nothing's locked, do you have a lean (take-rate marketplace like Airbnb, listing/subscription fee, lead-gen fee per booking, something else)? Or is it genuinely wide open right now?
+
+### 11:49 — Karan
+
+Your current markup model — When you curate a trip and sell it forward, is the markup a fixed percentage, or does it vary by trip/operator/trust level? Roughly what range are we talking about? 25 to 35% sometimes more.........What do you actually track when costing a trip: operator/leader fee, permits, transport, food, accommodation, gear rental, insurance, contingency buffer, your margin? Anything else specific to Himalayan treks (porter/pony costs, forest fees, etc.)? yes all, few thing i keep it optional and put it as additional cost, Leading vs. curating — Does your margin or approach differ when you're leading the trek yourself vs. purely curating someone else's? yes it does as the margin is less but since i dont lead there is no expense of mine so i end up making more, Payment flow — Right now, do you collect the full amount from the traveler and pay the operator their cut, or does the operator collect and pay you a commission back? This matters a lot for how TON would eventually handle money., i collect and pay the vendor after keeping my cut, Client-facing pricing — Do travelers ever see a cost breakdown, or just the final all-in price? i give them a total cost and no break down, TON-specific thinking — Even though nothing's locked, do you have a lean (take-rate marketplace like Airbnb, listing/subscription fee, lead-gen fee per booking, something else)? Or is it genuinely wide open right now? it is genuenly wide open, but this is all me operating as a solopreneur, i would want it to work differently with the outdoor network
+
+> 🔧 Write `C:\Users\Karan singh\.claude\skills\commission-and-pricing\SKILL.md`
+
+### 11:50 — Claude
+
+Updating the TON project memory with this one too, since the payment-model fork is a real strategic decision point worth remembering.
+
+> 🔧 Edit `C:\Users\Karan singh\.claude\projects\E--claude-task-tracker\memory\project_ton.md`
+
+### 11:51 — Claude
+
+**Commission & Pricing skill built.** Two clean halves:
+
+**Your personal model (decided, usable now):**
+- 25–35%+ markup when curating
+- Full cost-sheet line items, with Himalaya-specific/optional costs (porter/pony, gear rental) kept separate as "additional cost" rather than bundled
+- Key insight captured: leading yourself nets a higher % but carries real personal cost; curating-only nets a lower % but zero cost exposure — often comes out ahead net
+- All-in total price to clients, no breakdown shown
+- You're currently merchant-of-record: collect from traveler, pay vendor after your cut
+
+**TON's model (explicitly left open):**
+- Your personal 25–35% is fenced off as private data — never to be published as TON's rate
+- Laid out the real fork you'll eventually face: merchant-of-record (mirrors what you do now, but heavy cross-border payment compliance for a global platform) vs. facilitation/lead-gen (lighter, but you lose payment control) vs. hybrid — framed as unresolved, not decided for you
+
+Two skills left on the original list: **Safety & Risk Docs** and **Investor Pitch Kit**. Want to keep going, or pause here for now?
+
+### 11:52 — Karan
+
+are we done with this skill?
+
+### 11:52 — Claude
+
+Yes — the commission-and-pricing skill is complete and saved at [SKILL.md](C:\Users\Karan singh\.claude\skills\commission-and-pricing\SKILL.md). It's live now, meaning it'll auto-trigger any time we're building a cost sheet, discussing markup, or talking about how TON should handle payments.
+
+Nothing pending on it unless you want to adjust something — e.g., tighten the markup range, add more cost line items, or change how the merchant-of-record vs. facilitation fork is framed.
+
+Two skills left on the original roadmap: **Safety & Risk Docs** and **Investor Pitch Kit**. Want to move to one of those, or stop here for now?
+
+### 11:53 — Karan
+
+yes lets go ahead
+
+> 🔧 AskUserQuestion `{"questions":[{"question":"Which skill should we build next?","header":"Next Skill","multiSelect":false,"options":[{"label":"Safety & Risk Docs (Recommended)","description":"Standardized briefing docu…`
+
+### 11:53 — Claude
+
+Safety & Risk Docs is the one where I want to be extra careful to get your actual practice right — this is the content that protects people's lives and your legal exposure. Let me ask a focused set of questions:
+
+1. **Pre-trip briefing** — What do you actually cover before a trek starts? (Medical history disclosure, fitness declaration, gear check, weather contingency plan, communication protocol, emergency procedures overview?)
+
+2. **Waivers/liability forms** — Do you already use a waiver template, or should this skill help structure one? What should it cover — assumption of risk, medical fitness declaration, emergency contact details, insurance requirement, anything for minors?
+
+3. **Emergency protocol** — What's your actual response chain if something goes wrong on trail? (Satellite phone/communication device, nearest hospital or evacuation point, insurance claim process, who gets called first?)
+
+4. **Medical requirements** — Do you require travelers to disclose medical conditions upfront, any age limits, fitness certificates for higher-altitude treks?
+
+5. **Safety ratio** — Separate from the business group-size number we captured earlier — is there a leader-to-trekker safety ratio you follow, or additional support staff (local guide, porter) required per group size?
+
+6. **Turnaround decision-making** — Who makes the call to turn back on a summit push or difficult stretch, and what triggers that decision (weather, time, group condition)?
+
+7. **TON's role** — Since TON connects travelers directly to leaders rather than employing them, do you want this skill to push leaders toward having their *own* waiver/insurance/protocol (with TON just requiring proof it exists), or do you want TON to provide a standard template every leader uses?
+
+### 12:18 — Karan
+
+Pre-trip briefing — What do you actually cover before a trek starts? (Medical history disclosure, fitness declaration, gear check, weather contingency plan, communication protocol, emergency procedures overview?) also information on what high altitude is, what could possibly go wrong and how to prevent it, educate on ams, hape, hace, art of bagpacking, what to and how to pack, what to buy, offloading information, Do you already use a waiver template, or should this skill help structure one? What should it cover — assumption of risk, medical fitness declaration, emergency contact details, insurance requirement, anything for minors? yes all of it,  Emergency protocol — What's your actual response chain if something goes wrong on trail? (Satellite phone/communication device, nearest hospital or evacuation point, insurance claim process, who gets called first?) we ask the trekkers to sort insurance by themselves, and yes best posible way to reach the nearest hospital along with oxygen suply which guides carry, getting to an lower altitude is the priority and all this applies only if it is a himalayan trek
+
+### 12:18 — Karan
+
+[Request interrupted by user]
+
+### 12:20 — Karan
+
+Pre-trip briefing — What do you actually cover before a trek starts? (Medical history disclosure, fitness declaration, gear check, weather contingency plan, communication protocol, emergency procedures overview?) also information on what high altitude is, what could possibly go wrong and how to prevent it, educate on ams, hape, hace, art of bagpacking, what to and how to pack, what to buy, offloading information, Do you already use a waiver template, or should this skill help structure one? What should it cover — assumption of risk, medical fitness declaration, emergency contact details, insurance requirement, anything for minors? yes all of it,  Emergency protocol — What's your actual response chain if something goes wrong on trail? (Satellite phone/communication device, nearest hospital or evacuation point, insurance claim process, who gets called first?) we ask the trekkers to sort insurance by themselves, and yes best posible way to reach the nearest hospital along with oxygen suply which guides carry, getting to an lower altitude is the priority and all this applies only if it is a himalayan trek, Turnaround decision-making — Who makes the call to turn back on a summit push or difficult stretch, and what triggers that decision (weather, time, group condition)?yes all of this, mostly the lead guide or the trek leader, TON's role — Since TON connects travelers directly to leaders rather than employing them, do you want this skill to push leaders toward having their own waiver/insurance/protocol (with TON just requiring proof it exists), or do you want TON to provide a standard template every leader uses?
+yes i want a seperate one
+
+> 🔧 Write `C:\Users\Karan singh\.claude\skills\safety-and-risk-docs\SKILL.md`
+
+### 12:22 — Claude
+
+Updating the TON project memory with this fourth skill.
+
+> 🔧 Edit `C:\Users\Karan singh\.claude\projects\E--claude-task-tracker\memory\project_ton.md`
+
+### 12:22 — Claude
+
+**Safety & Risk Docs skill built** at [SKILL.md](C:\Users\Karan singh\.claude\skills\safety-and-risk-docs\SKILL.md). Covers:
+
+- **Briefing content**: standard logistics + your AMS/HAPE/HACE education, backpacking/packing guidance, and offloading info for high-altitude treks
+- **Waiver structure**: assumption of risk, medical declaration, emergency contacts, insurance (explicitly the traveler's own responsibility), minor consent — with a flag that final wording needs real legal review since enforceability is jurisdiction-specific
+- **Emergency protocol**: descend first, guides carry oxygen, get to nearest hospital — scoped specifically to Himalayan/altitude treks, not applied blindly to every activity type
+- **Turnaround authority**: sits with the trek leader, never a group vote, stated upfront in briefings
+- **TON policy**: no single universal waiver — each field leader owns their own, TON just verifies it exists, consistent with the onboarding skill's philosophy
+
+That's **5 of 6 skills done** (brand, trip-curation, field-leader-onboarding, commission-and-pricing, safety-and-risk-docs). Only the **Investor Pitch Kit** remains — and it's got real ammunition now: your 5-region roster, the curation trust filter, and the safety doctrine all feed directly into it as proof points.
+
+Want to build that one next, or stop here for today?
+
+### 12:23 — Karan
+
+lets go
+
+### 12:24 — Claude
+
+Last one — **Investor Pitch Kit**. A few questions to ground this in your actual situation rather than generic startup-deck boilerplate:
+
+1. **Stage of raise** — Are you actively raising right now, or is this prep for a future conversation? Any target amount in mind, or is that genuinely undecided (like the revenue model)?
+
+2. **Use of funds** — If you did raise, what would the money actually go toward — building the tech/app, hiring, marketing, expanding to more regions, something else?
+
+3. **Team** — Is it just you as founder right now, or are there co-founders, advisors, or a tech partner already involved?
+
+4. **Competitors/comparables** — Who do you think of as the closest comparison when explaining TON to someone (Indiahikes, Trek The Himalayas, Airbnb Experiences, GetYourGuide, something else)? This helps position TON without attacking anyone by name, per the brand voice.
+
+5. **Traction proof points** — Beyond the 5-region, ~13-leader roster we already have, is there anything else real to point to — Outdoors with Karan's following, Blue Sheep Adventures' track record, any traveler waitlist or demand signal? I want to only use things that are actually true, never invented numbers.
+
+6. **Timeline** — Rough sense of when you'd actually want to pitch investors — this year, next year, or "whenever it's ready"?
+
+### 12:28 — Karan
+
+Stage of raise — Are you actively raising right now, or is this prep for a future conversation? Any target amount in mind, or is that genuinely undecided (like the revenue model)? need to work on the amount needed, but i feel as of now 15 lakhs is what i might need to start off with, Use of funds — If you did raise, what would the money actually go toward — building the tech/app, hiring, marketing, expanding to more regions, something else? yes all of this along with rent and travel  as well, Team — Is it just you as founder right now, or are there co-founders, advisors, or a tech partner already involved? i have a tech partener, abhilash kashyap, the closest as competitors would be Airbnb Experiences, GetYourGuide, yes go ahead, all is true, This year
+
+> 🔧 Write `C:\Users\Karan singh\.claude\skills\ton-investor-kit\SKILL.md`
+
+### 12:30 — Claude
+
+Final memory update, closing out the TON skill roadmap.
+
+> 🔧 Edit `C:\Users\Karan singh\.claude\projects\E--claude-task-tracker\memory\project_ton.md`
+
+### 12:30 — Claude
+
+**All 6 planned skills for The Outdoor Network are built.** Here's the full stack now live at `C:\Users\Karan singh\.claude\skills\`:
+
+| Skill | What it governs |
+|---|---|
+| [the-outdoor-network](C:\Users\Karan singh\.claude\skills\the-outdoor-network\SKILL.md) | Brand voice, two-sided pitch, "field leaders" terminology |
+| [trip-curation](C:\Users\Karan singh\.claude\skills\trip-curation\SKILL.md) | Difficulty grading, altitude/pacing doctrine, seasonality, trust filter |
+| [field-leader-onboarding](C:\Users\Karan singh\.claude\skills\field-leader-onboarding\SKILL.md) | Intake process, vetting call, profiles, your real 13-leader/5-region roster |
+| [commission-and-pricing](C:\Users\Karan singh\.claude\skills\commission-and-pricing\SKILL.md) | Your 25-35% markup model, cost sheets, TON's open payment-model fork |
+| [safety-and-risk-docs](C:\Users\Karan singh\.claude\skills\safety-and-risk-docs\SKILL.md) | Briefings, waivers, AMS/HAPE/HACE protocol, turnaround authority |
+| [ton-investor-kit](C:\Users\Karan singh\.claude\skills\ton-investor-kit\SKILL.md) | ₹15L raise, team, comps, deck structure, revenue-question handling |
+
+**Loose ends worth knowing about (tracked in memory, not urgent):**
+- "Field leaders" is the working term — "Captain" is on the shelf if you want to test it in real conversations later
+- TON's payment model (merchant-of-record vs. facilitation) is still genuinely open
+- Abhilash Kashyap's exact role — co-founder vs. tech partner — needs pinning down before it goes near any investor deck
+- Any real numbers (OWK following, BSA track record, the ₹15L figure) need a final check with you before they appear in anything external
+
+From here, this isn't a one-time setup — these skills stay live and I'll apply them automatically whenever we touch TON, whether that's drafting outreach to Deepak or Surender, building a cost sheet, writing a safety briefing, or eventually putting together that deck. Just talk to me like you normally would about the work; I'll pull the right playbook in the background.
+
+### 16:00 — Karan
+
+@"C:\Users\Karan singh\Desktop\Downloads\outdoor-network-v2-change-plan.md"
+Based on my plan, based on my plan for the outdoor network, still I'm not sure how I make a foolproof financial model for the guides I hire for the customers I have. I don't know whom to charge, how much percentage to charge, and how much revenue to make. Since I am going to go out to test the market with the first 10 guides, how do I do this? I need to figure this out. I will need your help to do this.
+
+### 16:04 — Claude
+
+I've read your v2 change plan, and it actually surfaces the central tension we need to resolve before any financial model can be "foolproof": your live site already runs a **traveler-pays model** (₹499/₹1,499 contact unlocks), and Section 7 even promises guides **zero commission** in the Guide Agreement — yet your question is about what percentage to charge. Those two things point in opposite directions, so let me pin down a few decisions before I write the plan.
+
+> 🔧 AskUserQuestion `{"questions":[{"question":"Who should pay TON during the 10-guide market test? Your v2 plan's Guide Agreement promises guides zero commission, and the live site charges travelers for contact unlocks —…`
+
 ## Files touched
 
 - C:\Users\Karan singh\AppData\Roaming\Claude\local-agent-mode-sessions\117acc2c-6ea4-49e2-b3fe-ba9183e6159e\8aaa5e70-0606-4696-bba0-1f71472aee7b\rpm\plugin_01UanV824ppnyRbUgzubyvNC\skills\blue-sheep-adventures\SKILL.md
@@ -379,6 +572,9 @@ lets go next
 - C:\Users\Karan singh\.claude\projects\E--claude-task-tracker\memory\MEMORY.md
 - C:\Users\Karan singh\.claude\skills\trip-curation\SKILL.md
 - C:\Users\Karan singh\.claude\skills\field-leader-onboarding\SKILL.md
+- C:\Users\Karan singh\.claude\skills\commission-and-pricing\SKILL.md
+- C:\Users\Karan singh\.claude\skills\safety-and-risk-docs\SKILL.md
+- C:\Users\Karan singh\.claude\skills\ton-investor-kit\SKILL.md
 
 ## Links
 

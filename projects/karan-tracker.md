@@ -5,9 +5,9 @@ slug: karan-tracker
 # Karan Tracker
 
 <!--STATUS:BEGIN-->
-- The personal-brain vault is live under this project: `collect.mjs` harvests every AI session into markdown notes, `night-audit.ps1` produces the nightly digest, and `install-task.ps1` registers the Windows scheduled task.
-- The vault syncs to the personal-brain GitHub repo (initial history committed with secrets scrubbed) and opens in Obsidian for graph-style linking between days, sessions, projects, and decisions.
-- Reliability is the open issue: the first automated runs (3:35 AM) hit Claude session limits and the 4:45 AM retry task never fired, so Karan triggered the audit manually at 11:36 AM. The retry/scheduling path needs hardening.
+- The vault is now complete end-to-end: `collect.mjs` harvests sessions, and the manually-run 2026-07-14 audit produced the first real daily digest plus a three-month backfill overview, all committed and pushed to the personal-brain GitHub repo.
+- Scheduling was simplified: the dead 4:45 AM one-shot retry task was deleted, leaving the daily 22:00 PersonalBrainNightAudit task as the only scheduled run.
+- Reliability is still the open issue: the 22:00 runs on 2026-07-14 and 2026-07-15 didn't close out those nights (this audit ran midday on 2026-07-16 covering a two-day window), so the unattended scheduling path still needs hardening.
 - The Karan Tracker app itself (the daily command-center) saw no direct feature work in this period.
 <!--STATUS:END-->
 

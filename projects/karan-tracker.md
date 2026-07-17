@@ -5,11 +5,10 @@ slug: karan-tracker
 # Karan Tracker
 
 <!--STATUS:BEGIN-->
-- The vault pipeline is complete end-to-end: `collect.mjs` harvests sessions, audits produce the daily digest and rolling project statuses, and everything (including the three-month backfill overview) is committed to the personal-brain GitHub repo.
-- The two-night backlog is cleared: a midday catch-up audit on 2026-07-16 produced the digest covering 2026-07-14 and 2026-07-15 and refreshed all four rolling statuses.
-- Scheduling stands at a single daily 22:00 PersonalBrainNightAudit task (the dead 4:45 AM retry task was deleted on 07-14). Tonight, 2026-07-16, it fired on schedule at 22:00 — the first on-time firing since the misses on the 14th and 15th.
-- Reliability is still the open watch item: one on-time run doesn't prove the unattended path is hardened; the next few nights need to close out cleanly before this is considered fixed.
-- New wrinkle to handle: when a catch-up audit runs midday and the scheduled run fires the same evening, two audits land on the same daily-note date (as happened today with daily/2026-07-16) — the pipeline should merge or supersede rather than duplicate.
+- The vault pipeline is complete end-to-end: `collect.mjs` harvests sessions, audits produce the daily digest and rolling project statuses, and everything is committed to the personal-brain GitHub repo.
+- Reliability is trending right: the 22:00 PersonalBrainNightAudit has now fired on schedule two nights running (2026-07-16 and 2026-07-17) after the misses on the 14th and 15th; the 07-16 run closed cleanly in ~70 seconds. A few more clean nights before calling the unattended path hardened.
+- Open wrinkle #1: when a midday catch-up and the evening scheduled run land on the same daily-note date (as happened with [[daily/2026-07-16]]), the pipeline should merge or supersede rather than duplicate — still unhandled.
+- Open wrinkle #2 (new tonight): session-to-project classification is unreliable — the audit-run session was filed under the-outdoor-network while a clearly-TON finance/build-spec session was filed under karan-tracker. The collector's project tagging needs a fix.
 - The Karan Tracker app itself (the daily command-center) saw no feature work in this period.
 <!--STATUS:END-->
 

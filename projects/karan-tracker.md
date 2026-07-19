@@ -5,10 +5,10 @@ slug: karan-tracker
 # Karan Tracker
 
 <!--STATUS:BEGIN-->
-- The vault pipeline is complete end-to-end: `collect.mjs` harvests sessions, audits produce the daily digest and rolling project statuses, and everything is committed to the personal-brain GitHub repo.
-- Reliability is trending right: the 22:00 PersonalBrainNightAudit has now fired on schedule two nights running (2026-07-16 and 2026-07-17) after the misses on the 14th and 15th; the 07-16 run closed cleanly in ~70 seconds. A few more clean nights before calling the unattended path hardened.
-- Open wrinkle #1: when a midday catch-up and the evening scheduled run land on the same daily-note date (as happened with [[daily/2026-07-16]]), the pipeline should merge or supersede rather than duplicate — still unhandled.
-- Open wrinkle #2 (new tonight): session-to-project classification is unreliable — the audit-run session was filed under the-outdoor-network while a clearly-TON finance/build-spec session was filed under karan-tracker. The collector's project tagging needs a fix.
+- The vault pipeline remains complete end-to-end: `collect.mjs` harvests sessions, audits produce the daily digest and rolling project statuses, and everything is committed to the personal-brain GitHub repo.
+- Reliability regressed: after two clean on-time nights (2026-07-16 and 2026-07-17), the 2026-07-18 PersonalBrainNightAudit never fired at all, and the 2026-07-19 run landed at ~23:46 instead of 22:00, covering a two-day window. The scheduler is back under suspicion and the unattended path cannot yet be called hardened.
+- A missed night now also means a missing daily note — there is no [[daily/2026-07-18]] — so the pipeline may need a catch-up/backfill behavior for skipped dates, alongside the still-unhandled wrinkle of merging a midday catch-up with the evening run on the same date (as with [[daily/2026-07-16]]).
+- Session-to-project classification is confirmed unreliable: the 2026-07-17 audit-run session was again auto-filed under the-outdoor-network instead of karan-tracker, the second such misfile. The collector's project tagging needs a deterministic rule (e.g., audit-run sessions always → karan-tracker).
 - The Karan Tracker app itself (the daily command-center) saw no feature work in this period.
 <!--STATUS:END-->
 

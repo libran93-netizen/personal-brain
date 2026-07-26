@@ -5,11 +5,11 @@ slug: karan-tracker
 # Karan Tracker
 
 <!--STATUS:BEGIN-->
-- The vault pipeline remains complete end-to-end: `collect.mjs` harvests sessions, audits produce the daily digest and rolling project statuses, and everything is committed to the personal-brain GitHub repo — but its unattended reliability is now the dominant problem.
-- The failure streak has widened: after the 2026-07-18 no-fire and the late 2026-07-19 run, the 2026-07-21 audit fired at 15:15 (not 22:00) and died immediately on a "Fable 5 requires usage credits" error, and no audits ran on 2026-07-22 or 2026-07-23. The 2026-07-24 run was itself an off-schedule 16:37 catch-up covering a three-day window.
-- New failure mode confirmed: exhausted Claude usage credits kill the audit silently. The pipeline needs a credit check, an alert, or a fallback model so a billing state can't erase a night unnoticed.
-- The backfill need is now concrete: daily notes are missing for 2026-07-18, 2026-07-21, 2026-07-22, and 2026-07-23. A catch-up/backfill behavior for skipped dates is overdue, alongside the still-unhandled merge of a midday catch-up with a same-date evening run (as with [[daily/2026-07-16]]).
-- Session-to-project classification failed a third time: the 2026-07-21 audit-run session was again auto-filed under the-outdoor-network. The collector needs a deterministic rule (audit-run sessions always → karan-tracker).
+- The vault pipeline remains complete end-to-end — `collect.mjs` harvests sessions, audits produce the daily digest and rolling statuses, everything commits to the personal-brain repo — but unattended reliability is still the dominant problem.
+- The schedule is only partly recovered: after the 16:37 catch-up on 2026-07-24, an evening run fired the same night at 23:21 (late of the 22:00 slot), but no audit ran on 2026-07-25 and the 2026-07-26 run had to cover a two-day window. Missing daily notes now: 2026-07-18, 2026-07-21, 2026-07-22, 2026-07-23, and 2026-07-25 — a backfill mechanism for skipped dates is overdue.
+- The 07-24 double run (16:37 catch-up plus 23:21 evening) reproduces the same-date merge problem from [[daily/2026-07-16]], which is still unhandled.
+- The credit-exhaustion failure mode from 2026-07-21 remains unguarded: the pipeline still needs a usage-credit check, an alert, or a fallback model so a billing state can't silently erase a night.
+- Session-to-project classification has now failed four times — the 2026-07-24 audit-run session was again auto-filed under the-outdoor-network. The collector needs a deterministic rule: audit-run sessions always → karan-tracker.
 - The Karan Tracker app itself (the daily command-center) saw no feature work in this period.
 <!--STATUS:END-->
 

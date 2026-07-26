@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-07-24T11:07:04.830Z",
+  "watermark": "2026-07-26T17:41:45.260Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -227,6 +227,30 @@
       "title": "You are writing Karan Singh's private nightly journal diges…",
       "project": "the-outdoor-network",
       "turns": 2,
+      "toolCalls": 0
+    },
+    "8173ec70-e9d2-43c0-b6d5-0365d45c206b": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\8173ec70-e9d2-43c0-b6d5-0365d45c206b.jsonl",
+      "mtimeMs": 1784891298004.4377,
+      "startDate": "2026-07-24",
+      "md": "sessions/2026-07-24/1637-claude-code-8173ec70.md",
+      "lastEventTs": "2026-07-24T11:08:17.825Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "355e6293-6979-4b7f-b255-257fd2162f62": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\355e6293-6979-4b7f-b255-257fd2162f62.jsonl",
+      "mtimeMs": 1784915487507.2644,
+      "startDate": "2026-07-24",
+      "md": "sessions/2026-07-24/2321-claude-code-355e6293.md",
+      "lastEventTs": "2026-07-24T17:51:25.731Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 1,
       "toolCalls": 0
     }
   }

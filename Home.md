@@ -13,6 +13,7 @@ Daily AI session tracker - auto-updated every night at 22:00 by the night audit.
 
 ## Recent days
 <!--RECENT:BEGIN-->
+- [[daily/2026-07-28|2026-07-28]]
 - [[daily/2026-07-27|2026-07-27]]
 - [[daily/2026-07-26|2026-07-26]]
 - [[daily/2026-07-24|2026-07-24]]

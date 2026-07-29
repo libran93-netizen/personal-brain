@@ -1,17 +1,17 @@
 {
-  "watermark": "2026-07-28T17:00:26.038Z",
+  "watermark": "2026-07-29T18:28:15.838Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\d--bluesheepadventures\\fc24dd02-3f9b-4bdf-a418-9c982b58191b.jsonl",
-      "mtimeMs": 1783498391069.7178,
+      "mtimeMs": 1785273624391.4995,
       "startDate": "2026-06-11",
       "md": "sessions/2026-06-11/2143-claude-code-fc24dd02.md",
-      "lastEventTs": "2026-07-08T08:13:10.923Z",
+      "lastEventTs": "2026-07-28T20:36:42.225Z",
       "title": "\\Now show me the front end.",
       "project": "bluesheep-adventures",
-      "turns": 454,
-      "toolCalls": 1004
+      "turns": 456,
+      "toolCalls": 1006
     },
     "1cc903e3-f0b4-40eb-851a-9c3ad6f61586": {
       "source": "claude-code",
@@ -276,6 +276,54 @@
       "project": "the-outdoor-network",
       "turns": 2,
       "toolCalls": 0
+    },
+    "93c352b7-c540-413f-bccd-a104817885c7": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\93c352b7-c540-413f-bccd-a104817885c7.jsonl",
+      "mtimeMs": 1785258074539.8438,
+      "startDate": "2026-07-28",
+      "md": "sessions/2026-07-28/2230-claude-code-93c352b7.md",
+      "lastEventTs": "2026-07-28T17:01:14.363Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
+      "mtimeMs": 1785349553445.4043,
+      "startDate": "2026-07-28",
+      "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
+      "lastEventTs": "2026-07-29T18:25:53.294Z",
+      "title": "@\"C:\\Users\\Karan singh\\Desktop\\Downloads\\Bluesheep_Adventur…",
+      "project": "karan-tracker",
+      "turns": 91,
+      "toolCalls": 297
+    },
+    "82bdc83a-fb63-498b-bcc4-0401fee9704b": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\82bdc83a-fb63-498b-bcc4-0401fee9704b.jsonl",
+      "mtimeMs": 1785349550573.8174,
+      "startDate": "2026-07-29",
+      "md": "sessions/2026-07-29/2354-claude-code-82bdc83a.md",
+      "lastEventTs": "2026-07-29T18:25:50.434Z",
+      "title": "<scheduled-task name=\"bsa-daily-9am-review\" file=\"C:\\Users\\…",
+      "project": "karan-tracker",
+      "turns": 3,
+      "toolCalls": 30
+    },
+    "182c29b6-8cce-4373-93ce-f2d823f19717": {
+      "source": "antigravity",
+      "file": "C:\\Users\\Karan singh\\.gemini\\antigravity-ide\\brain\\182c29b6-8cce-4373-93ce-f2d823f19717",
+      "mtimeMs": 1785274870375.4026,
+      "startDate": "2026-07-29",
+      "md": "sessions/2026-07-29/0258-antigravity-182c29b6.md",
+      "lastEventTs": "2026-07-28T21:40:48.000Z",
+      "title": "BSA Restyle Tasks",
+      "project": "karan-tracker",
+      "turns": 17,
+      "toolCalls": 155
     }
   }
 }

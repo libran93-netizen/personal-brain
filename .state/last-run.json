@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-07-29T18:28:15.838Z",
+  "watermark": "2026-07-30T16:57:10.777Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -40,7 +40,7 @@
     "e75d4d97-0d74-40e2-81ef-1e8fdbbac530": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\e75d4d97-0d74-40e2-81ef-1e8fdbbac530.jsonl",
-      "mtimeMs": 1784890935374,
+      "mtimeMs": 1785354513789,
       "startDate": "2026-07-13",
       "md": "sessions/2026-07-13/1346-claude-code-e75d4d97.md",
       "lastEventTs": "2026-07-16T18:25:22.041Z",
@@ -292,14 +292,14 @@
     "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
-      "mtimeMs": 1785349553445.4043,
+      "mtimeMs": 1785430618610.4282,
       "startDate": "2026-07-28",
       "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
-      "lastEventTs": "2026-07-29T18:25:53.294Z",
+      "lastEventTs": "2026-07-30T16:56:58.453Z",
       "title": "@\"C:\\Users\\Karan singh\\Desktop\\Downloads\\Bluesheep_Adventur…",
       "project": "karan-tracker",
-      "turns": 91,
-      "toolCalls": 297
+      "turns": 207,
+      "toolCalls": 495
     },
     "82bdc83a-fb63-498b-bcc4-0401fee9704b": {
       "source": "claude-code",
@@ -324,6 +324,18 @@
       "project": "karan-tracker",
       "turns": 17,
       "toolCalls": 155
+    },
+    "3754ee82-992a-4b9b-ba44-14e0539d4e31": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\3754ee82-992a-4b9b-ba44-14e0539d4e31.jsonl",
+      "mtimeMs": 1785349910272.6133,
+      "startDate": "2026-07-29",
+      "md": "sessions/2026-07-29/2358-claude-code-3754ee82.md",
+      "lastEventTs": "2026-07-29T18:31:49.922Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
     }
   }
 }

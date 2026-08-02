@@ -5,3 +5,5 @@ scripts/logs/
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .trash/
+# Local-only: personal finance notes (never sync bank/debt data)
+finance/

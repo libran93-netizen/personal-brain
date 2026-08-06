@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-08-05T16:30:02.536Z",
+  "watermark": "2026-08-06T17:04:18.464Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -292,14 +292,14 @@
     "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
-      "mtimeMs": 1785946062797.3667,
+      "mtimeMs": 1786035851629.9612,
       "startDate": "2026-07-28",
       "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
-      "lastEventTs": "2026-08-05T16:07:42.640Z",
+      "lastEventTs": "2026-08-06T17:04:20.126Z",
       "title": "@\"C:\\Users\\Karan singh\\Desktop\\Downloads\\Bluesheep_Adventur…",
       "project": "karan-tracker",
-      "turns": 478,
-      "toolCalls": 1219
+      "turns": 480,
+      "toolCalls": 1225
     },
     "82bdc83a-fb63-498b-bcc4-0401fee9704b": {
       "source": "claude-code",
@@ -456,6 +456,30 @@
       "project": "karan-tracker",
       "turns": 2,
       "toolCalls": 6
+    },
+    "825ba04b-57e9-485f-89a9-3ee1a0bfa661": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\825ba04b-57e9-485f-89a9-3ee1a0bfa661.jsonl",
+      "mtimeMs": 1785947405899.059,
+      "startDate": "2026-08-05",
+      "md": "sessions/2026-08-05/2200-claude-code-825ba04b.md",
+      "lastEventTs": "2026-08-05T16:30:05.819Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "fda55d6f-eb2c-46cf-b709-650a7d6d1760": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\fda55d6f-eb2c-46cf-b709-650a7d6d1760.jsonl",
+      "mtimeMs": 1786035637696,
+      "startDate": "2026-08-06",
+      "md": "sessions/2026-08-06/0013-claude-code-fda55d6f.md",
+      "lastEventTs": "2026-08-05T18:58:45.070Z",
+      "title": "how do i add this. https://claude.ai/directory/connectors/a…",
+      "project": "karan-tracker",
+      "turns": 15,
+      "toolCalls": 19
     }
   }
 }

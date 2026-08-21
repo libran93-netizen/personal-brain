@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-08-14T16:30:05.687Z",
+  "watermark": "2026-08-21T05:23:35.539Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -292,14 +292,14 @@
     "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
-      "mtimeMs": 1786697420778.688,
+      "mtimeMs": 1787289452830,
       "startDate": "2026-07-28",
       "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
-      "lastEventTs": "2026-08-14T05:41:07.521Z",
+      "lastEventTs": "2026-08-20T18:29:44.468Z",
       "title": "@\"C:\\Users\\Karan singh\\Desktop\\Downloads\\Bluesheep_Adventur…",
       "project": "karan-tracker",
-      "turns": 656,
-      "toolCalls": 1557
+      "turns": 745,
+      "toolCalls": 1731
     },
     "82bdc83a-fb63-498b-bcc4-0401fee9704b": {
       "source": "claude-code",
@@ -436,7 +436,7 @@
     "609ec3c6-80dd-4778-b322-bfbf842da44e": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\609ec3c6-80dd-4778-b322-bfbf842da44e.jsonl",
-      "mtimeMs": 1786543438685,
+      "mtimeMs": 1787250518124,
       "startDate": "2026-08-04",
       "md": "sessions/2026-08-04/0242-claude-code-609ec3c6.md",
       "lastEventTs": "2026-08-03T21:35:46.735Z",
@@ -472,7 +472,7 @@
     "fda55d6f-eb2c-46cf-b709-650a7d6d1760": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\fda55d6f-eb2c-46cf-b709-650a7d6d1760.jsonl",
-      "mtimeMs": 1786642079335,
+      "mtimeMs": 1787250518120,
       "startDate": "2026-08-06",
       "md": "sessions/2026-08-06/0013-claude-code-fda55d6f.md",
       "lastEventTs": "2026-08-05T18:58:45.070Z",
@@ -540,6 +540,30 @@
       "project": "the-outdoor-network",
       "turns": 2,
       "toolCalls": 0
+    },
+    "691fe216-ccfb-4c9d-a394-efb2adeae1fc": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\691fe216-ccfb-4c9d-a394-efb2adeae1fc.jsonl",
+      "mtimeMs": 1786725009435.2065,
+      "startDate": "2026-08-14",
+      "md": "sessions/2026-08-14/2200-claude-code-691fe216.md",
+      "lastEventTs": "2026-08-14T16:30:09.345Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "16ff37b2-1a68-4167-be78-22605115b9d4": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\16ff37b2-1a68-4167-be78-22605115b9d4.jsonl",
+      "mtimeMs": 1787250599467.2163,
+      "startDate": "2026-08-20",
+      "md": "sessions/2026-08-20/2357-claude-code-16ff37b2.md",
+      "lastEventTs": "2026-08-20T18:29:59.305Z",
+      "title": "<scheduled-task name=\"bsa-monday-ceo-report\" file=\"C:\\Users…",
+      "project": "karan-tracker",
+      "turns": 1,
+      "toolCalls": 20
     }
   }
 }

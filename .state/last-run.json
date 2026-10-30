@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-10-21T16:30:04.739Z",
+  "watermark": "2026-10-30T12:47:06.519Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -1068,6 +1068,18 @@
       "project": "karan-tracker",
       "turns": 1,
       "toolCalls": 3
+    },
+    "18eeae6c-3ca2-49ce-bb4c-310a500db41a": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\18eeae6c-3ca2-49ce-bb4c-310a500db41a.jsonl",
+      "mtimeMs": 1792600208993.887,
+      "startDate": "2026-10-21",
+      "md": "sessions/2026-10-21/2200-claude-code-18eeae6c.md",
+      "lastEventTs": "2026-10-21T16:30:08.912Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
     }
   }
 }

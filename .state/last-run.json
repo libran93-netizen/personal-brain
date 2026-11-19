@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-11-18T16:30:05.640Z",
+  "watermark": "2026-11-19T19:29:35.889Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -40,7 +40,7 @@
     "e75d4d97-0d74-40e2-81ef-1e8fdbbac530": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\e75d4d97-0d74-40e2-81ef-1e8fdbbac530.jsonl",
-      "mtimeMs": 1794237707499.219,
+      "mtimeMs": 1794511482968,
       "startDate": "2026-07-13",
       "md": "sessions/2026-07-13/1346-claude-code-e75d4d97.md",
       "lastEventTs": "2026-07-16T18:25:22.041Z",
@@ -292,7 +292,7 @@
     "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
-      "mtimeMs": 1795015585706.2727,
+      "mtimeMs": 1795116330722.5732,
       "startDate": "2026-07-28",
       "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
       "lastEventTs": "2026-11-11T06:22:42.976Z",
@@ -1132,7 +1132,7 @@
     "007283f0-bbc2-4534-a90c-a5ec6923b9e0": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\007283f0-bbc2-4534-a90c-a5ec6923b9e0.jsonl",
-      "mtimeMs": 1794241299334.5981,
+      "mtimeMs": 1794511482968,
       "startDate": "2026-11-03",
       "md": "sessions/2026-11-03/1101-claude-code-007283f0.md",
       "lastEventTs": "2026-11-09T16:06:38.885Z",
@@ -1180,7 +1180,7 @@
     "6463d766-a84e-4bad-8e90-c020448114fd": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6463d766-a84e-4bad-8e90-c020448114fd.jsonl",
-      "mtimeMs": 1794241418928.8809,
+      "mtimeMs": 1794511482968,
       "startDate": "2026-11-09",
       "md": "sessions/2026-11-09/2049-claude-code-6463d766.md",
       "lastEventTs": "2026-11-09T16:08:38.714Z",
@@ -1204,7 +1204,7 @@
     "6408c43f-92b2-460a-84a3-422a8da122a9": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6408c43f-92b2-460a-84a3-422a8da122a9.jsonl",
-      "mtimeMs": 1794243883612.0159,
+      "mtimeMs": 1794511482968,
       "startDate": "2026-11-09",
       "md": "sessions/2026-11-09/2137-claude-code-6408c43f.md",
       "lastEventTs": "2026-11-09T16:56:39.029Z",
@@ -1308,6 +1308,30 @@
       "project": "the-outdoor-network",
       "turns": 2,
       "toolCalls": 0
+    },
+    "e17f4f0b-3a37-4ffa-9955-37f5da57c3fc": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\e17f4f0b-3a37-4ffa-9955-37f5da57c3fc.jsonl",
+      "mtimeMs": 1795019415808.484,
+      "startDate": "2026-11-18",
+      "md": "sessions/2026-11-18/2200-claude-code-e17f4f0b.md",
+      "lastEventTs": "2026-11-18T16:30:15.616Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "6a26e15d-8713-4a3e-a270-e522955680ce": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6a26e15d-8713-4a3e-a270-e522955680ce.jsonl",
+      "mtimeMs": 1795116385176.3352,
+      "startDate": "2026-11-20",
+      "md": "sessions/2026-11-20/0055-claude-code-6a26e15d.md",
+      "lastEventTs": "2026-11-19T19:26:25.047Z",
+      "title": "<scheduled-task name=\"bsa-daily-9am-review\" file=\"C:\\Users\\…",
+      "project": "karan-tracker",
+      "turns": 2,
+      "toolCalls": 10
     }
   }
 }

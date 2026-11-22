@@ -1,5 +1,5 @@
 {
-  "watermark": "2026-11-21T16:30:02.332Z",
+  "watermark": "2026-11-22T16:30:02.458Z",
   "sessions": {
     "fc24dd02-3f9b-4bdf-a418-9c982b58191b": {
       "source": "claude-code",
@@ -52,7 +52,7 @@
     "fc1810e2-6890-4140-a098-77da414560ad": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\fc1810e2-6890-4140-a098-77da414560ad.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1795291804392,
       "startDate": "2026-06-11",
       "md": "sessions/2026-06-11/0141-claude-code-fc1810e2.md",
       "lastEventTs": "2026-06-10T22:36:12.201Z",
@@ -292,19 +292,19 @@
     "6804305f-1b17-4104-aeb9-a39df8bbfe62": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\6804305f-1b17-4104-aeb9-a39df8bbfe62.jsonl",
-      "mtimeMs": 1795276621285.7085,
+      "mtimeMs": 1795360494337.104,
       "startDate": "2026-07-28",
       "md": "sessions/2026-07-28/2334-claude-code-6804305f.md",
-      "lastEventTs": "2026-11-21T15:57:01.068Z",
+      "lastEventTs": "2026-11-22T15:14:54.134Z",
       "title": "@\"C:\\Users\\Karan singh\\Desktop\\Downloads\\Bluesheep_Adventur…",
       "project": "karan-tracker",
-      "turns": 1288,
-      "toolCalls": 3208
+      "turns": 1423,
+      "toolCalls": 3854
     },
     "82bdc83a-fb63-498b-bcc4-0401fee9704b": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\82bdc83a-fb63-498b-bcc4-0401fee9704b.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-07-29",
       "md": "sessions/2026-07-29/2354-claude-code-82bdc83a.md",
       "lastEventTs": "2026-07-29T18:25:50.434Z",
@@ -388,7 +388,7 @@
     "5fa9d569-87d3-4814-85e6-198648fb561c": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\5fa9d569-87d3-4814-85e6-198648fb561c.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-03",
       "md": "sessions/2026-08-03/1202-claude-code-5fa9d569.md",
       "lastEventTs": "2026-08-03T06:38:34.227Z",
@@ -400,7 +400,7 @@
     "7abd0b18-8584-4a58-acbf-fe0ada40e2cc": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\7abd0b18-8584-4a58-acbf-fe0ada40e2cc.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-03",
       "md": "sessions/2026-08-03/1202-claude-code-7abd0b18.md",
       "lastEventTs": "2026-08-03T06:37:39.031Z",
@@ -448,7 +448,7 @@
     "ad7261b5-e930-44df-90f3-cb7afa82c821": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\ad7261b5-e930-44df-90f3-cb7afa82c821.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-04",
       "md": "sessions/2026-08-04/0909-claude-code-ad7261b5.md",
       "lastEventTs": "2026-08-04T03:39:32.740Z",
@@ -496,7 +496,7 @@
     "db90a5a6-f8e9-403d-890f-8abaa27a7b73": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\db90a5a6-f8e9-403d-890f-8abaa27a7b73.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-12",
       "md": "sessions/2026-08-12/1857-claude-code-db90a5a6.md",
       "lastEventTs": "2026-08-12T13:27:31.444Z",
@@ -520,7 +520,7 @@
     "e373d7b2-2bed-4c68-bb91-6380170d34dc": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\e373d7b2-2bed-4c68-bb91-6380170d34dc.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-13",
       "md": "sessions/2026-08-13/1448-claude-code-e373d7b2.md",
       "lastEventTs": "2026-09-03T08:37:22.377Z",
@@ -556,7 +556,7 @@
     "16ff37b2-1a68-4167-be78-22605115b9d4": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\16ff37b2-1a68-4167-be78-22605115b9d4.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-08-20",
       "md": "sessions/2026-08-20/2357-claude-code-16ff37b2.md",
       "lastEventTs": "2026-09-03T08:37:21.919Z",
@@ -688,7 +688,7 @@
     "4e56cde0-e4aa-4750-84dc-a1c2d2ae951a": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\4e56cde0-e4aa-4750-84dc-a1c2d2ae951a.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-06",
       "md": "sessions/2026-09-06/1248-claude-code-4e56cde0.md",
       "lastEventTs": "2026-09-11T13:57:19.626Z",
@@ -712,7 +712,7 @@
     "a33fddb7-dfb1-49d1-8825-ac9c0b6b2554": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\a33fddb7-dfb1-49d1-8825-ac9c0b6b2554.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-07",
       "md": "sessions/2026-09-07/1827-claude-code-a33fddb7.md",
       "lastEventTs": "2026-09-11T13:56:49.883Z",
@@ -760,7 +760,7 @@
     "76c641dc-669e-4623-b7bd-85bb77d6f8a8": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\76c641dc-669e-4623-b7bd-85bb77d6f8a8.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-12",
       "md": "sessions/2026-09-12/1025-claude-code-76c641dc.md",
       "lastEventTs": "2026-09-12T05:43:36.506Z",
@@ -772,7 +772,7 @@
     "d0af4459-550e-4b8a-b940-166bdd96fa49": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\d0af4459-550e-4b8a-b940-166bdd96fa49.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-16",
       "md": "sessions/2026-09-16/1754-claude-code-d0af4459.md",
       "lastEventTs": "2026-09-18T15:52:08.097Z",
@@ -820,7 +820,7 @@
     "b282c6a8-a8f6-4be7-9be4-1a4c5dba9f3b": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\b282c6a8-a8f6-4be7-9be4-1a4c5dba9f3b.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-18",
       "md": "sessions/2026-09-18/2155-claude-code-b282c6a8.md",
       "lastEventTs": "2026-09-30T15:05:32.476Z",
@@ -880,7 +880,7 @@
     "71ea7955-c078-4eb1-9f62-4c086f0cbf83": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\71ea7955-c078-4eb1-9f62-4c086f0cbf83.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-28",
       "md": "sessions/2026-09-28/1147-claude-code-71ea7955.md",
       "lastEventTs": "2026-09-30T15:05:31.891Z",
@@ -916,7 +916,7 @@
     "f6bbf258-b52e-409c-a586-765f907bea2c": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\f6bbf258-b52e-409c-a586-765f907bea2c.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-09-30",
       "md": "sessions/2026-09-30/2036-claude-code-f6bbf258.md",
       "lastEventTs": "2026-09-30T15:08:16.476Z",
@@ -988,7 +988,7 @@
     "276bebdb-0363-45be-a27c-17cc2a09f77b": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\276bebdb-0363-45be-a27c-17cc2a09f77b.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-10-13",
       "md": "sessions/2026-10-13/1242-claude-code-276bebdb.md",
       "lastEventTs": "2026-10-20T15:51:49.592Z",
@@ -1012,7 +1012,7 @@
     "f2654e08-c5db-4f33-b880-293d09fdf972": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\f2654e08-c5db-4f33-b880-293d09fdf972.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-10-20",
       "md": "sessions/2026-10-20/1804-claude-code-f2654e08.md",
       "lastEventTs": "2026-10-20T15:50:38.604Z",
@@ -1060,7 +1060,7 @@
     "775c13e4-00a8-458a-9c9d-2ab1c598e30c": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\775c13e4-00a8-458a-9c9d-2ab1c598e30c.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-10-21",
       "md": "sessions/2026-10-21/1326-claude-code-775c13e4.md",
       "lastEventTs": "2026-10-21T07:57:02.144Z",
@@ -1096,7 +1096,7 @@
     "075eca51-0d73-487b-9f63-a04fcdf1a013": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\075eca51-0d73-487b-9f63-a04fcdf1a013.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-11-02",
       "md": "sessions/2026-11-02/1912-claude-code-075eca51.md",
       "lastEventTs": "2026-11-02T16:11:14.563Z",
@@ -1108,7 +1108,7 @@
     "84b2950b-b07f-45bc-998d-08ed17132c4b": {
       "source": "claude-code",
       "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\84b2950b-b07f-45bc-998d-08ed17132c4b.jsonl",
-      "mtimeMs": 1794410675146,
+      "mtimeMs": 1794732747815,
       "startDate": "2026-11-02",
       "md": "sessions/2026-11-02/1912-claude-code-84b2950b.md",
       "lastEventTs": "2026-11-02T16:11:19.123Z",
@@ -1404,6 +1404,42 @@
       "project": "unsorted",
       "turns": 2,
       "toolCalls": 1
+    },
+    "b0feba98-6c3c-4796-ada5-8096098215b7": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\D--personal-brain\\b0feba98-6c3c-4796-ada5-8096098215b7.jsonl",
+      "mtimeMs": 1795278798954.3792,
+      "startDate": "2026-11-21",
+      "md": "sessions/2026-11-21/2200-claude-code-b0feba98.md",
+      "lastEventTs": "2026-11-21T16:33:18.488Z",
+      "title": "You are writing Karan Singh's private nightly journal diges…",
+      "project": "the-outdoor-network",
+      "turns": 2,
+      "toolCalls": 0
+    },
+    "3534d032-7005-466d-be89-b5324f2d5025": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\3534d032-7005-466d-be89-b5324f2d5025.jsonl",
+      "mtimeMs": 1795321325322.724,
+      "startDate": "2026-11-22",
+      "md": "sessions/2026-11-22/0901-claude-code-3534d032.md",
+      "lastEventTs": "2026-11-22T04:20:37.105Z",
+      "title": "<scheduled-task name=\"bsa-daily-9am-review\" file=\"C:\\Users\\…",
+      "project": "karan-tracker",
+      "turns": 2,
+      "toolCalls": 3
+    },
+    "99becf2f-7af2-444b-b838-8282e7e2e955": {
+      "source": "claude-code",
+      "file": "C:\\Users\\Karan singh\\.claude\\projects\\E--claude-task-tracker\\99becf2f-7af2-444b-b838-8282e7e2e955.jsonl",
+      "mtimeMs": 1795327750431.764,
+      "startDate": "2026-11-22",
+      "md": "sessions/2026-11-22/0146-claude-code-99becf2f.md",
+      "lastEventTs": "2026-11-22T06:03:15.215Z",
+      "title": "<pasted_content id=\"d01a\"> I want you to use the brainstorm…",
+      "project": "karan-tracker",
+      "turns": 9,
+      "toolCalls": 35
     }
   }
 }

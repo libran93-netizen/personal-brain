@@ -13,6 +13,7 @@ Daily AI session tracker - auto-updated every night at 22:00 by the night audit.
 
 ## Recent days
 <!--RECENT:BEGIN-->
+- [[daily/2026-11-27|2026-11-27]]
 - [[daily/2026-11-22|2026-11-22]]
 - [[daily/2026-11-21|2026-11-21]]
 - [[daily/2026-11-20|2026-11-20]]
@@ -26,7 +27,6 @@ Daily AI session tracker - auto-updated every night at 22:00 by the night audit.
 - [[daily/2026-10-21|2026-10-21]]
 - [[daily/2026-10-20|2026-10-20]]
 - [[daily/2026-10-13|2026-10-13]]
-- [[daily/2026-10-12|2026-10-12]]
 <!--RECENT:END-->
 
 ## Capture claude.ai / voice chats

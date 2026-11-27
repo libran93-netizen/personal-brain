@@ -5,12 +5,12 @@ slug: bluesheep-adventures
 # Blue Sheep Adventures
 
 <!--STATUS:BEGIN-->
-- Website visual identity restyle remains locked and executed on local dev, still undeployed. [[decisions/2026-07-29-bsa-site-restyle-brand-lock|decision]]
-- New tonight: the ground-up website rebuild reached its first confirmed build milestone — the Next.js site now runs locally, and Karan viewed a live preview on his phone through a verified Cloudflare tunnel link.
-- Itinerary standardization and costing remain as before: Khopra Ridge and Dayara Bugyal are the only two treks in Protocol v2 format (Dayara's 3 source conflicts unresolved), the catalog holds at 19 itineraries, and catalog-wide costing stays deferred until the factor-based cost calculator is built. [[decisions/2026-07-31-bsa-kedarnath-excluded|decision]] · [[decisions/2026-07-31-bsa-costing-deferred-to-calculator|decision]]
-- The trek-vote social campaign (all 27 treks, flexible reply format) is finalized but still unposted, pending Karan's review of the 4 rollout images. [[decisions/2026-11-21-bsa-trek-vote-format|decision]]
-- Khopra's Wave 1 rollout into Accounts/CRM remains paused on Karan's confirmed itinerary numbers; the automated 9am daily-review was interrupted before completing for a second consecutive day, so no fresh cross-department status exists.
-- New tonight: Karan opened an unresolved brainstorm about turning his trekking-industry knowledge and the 39 BSA itineraries into a licensable B2B data API — nothing is decided, and he paused mid-way through the question set.
+- Website rebuild milestone holds: the Next.js site runs locally with a confirmed working Cloudflare-tunnel phone preview from 2026-11-22; a follow-up tunnel restart failed, so remote preview access is still flaky.
+- New: a customer-journey-planner Claude skill was built to design non-standard, dynamic-pricing customer journeys (e.g., group-size pricing) via simple "mountain" and "story" mind-map pictures; nine draft journey concepts were sketched into `os/journey-lab/` plus a `group-up/PLAN.md` and `JOURNEY.md`, none chosen yet. [[sessions/2026-11-23/0132-claude-code-39a179ef|mind-map session]]
+- Itinerary/costing status unchanged: Khopra Ridge and Dayara Bugyal remain the only Protocol v2 treks, the catalog holds at 19 itineraries, and costing stays deferred to the calculator. [[decisions/2026-07-31-bsa-kedarnath-excluded|decision]] · [[decisions/2026-07-31-bsa-costing-deferred-to-calculator|decision]]
+- The trek-vote social campaign is still finalized but unposted, pending Karan's review of the 4 rollout images. [[decisions/2026-11-21-bsa-trek-vote-format|decision]]
+- Khopra's Wave 1 rollout stays paused; both the 9am daily-review and the new Monday CEO report scheduled automations again failed to run to completion, extending the interruption streak across multiple incidents and now a second task type.
+- The B2B licensable trekking-data-API idea remains an open, undecided brainstorm.
 <!--STATUS:END-->
 
 ## Timeline
